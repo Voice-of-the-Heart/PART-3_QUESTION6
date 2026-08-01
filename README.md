@@ -2,7 +2,6 @@
 Building GIS Capability in the Counterpart Department
 A capability development response, not a training plan
 
-31 July 2026
 
 A team that loses delivery capacity to two resignations is a team where knowledge was never written down. The counterpart department has the same fault line: its lowest measured competency is documenting a reproducible workflow, which means the work lives in individuals, not in the organisation. This plan treats capability-building and documentation as one task, not two — every design choice below moves knowledge out of people and into procedures the department keeps when someone leaves.
 
