@@ -1,7 +1,6 @@
 ---
 title: "Building GIS Capability in the Counterpart Department"
 subtitle: "A capability development response, not a training plan"
-date: "31 July 2026"
 geometry: margin=2.1cm
 fontsize: 10.5pt
 ---
